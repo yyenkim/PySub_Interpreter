@@ -1,7 +1,7 @@
 # PySub_Interpreter
 C++ command-line tool for parsing and executing Python scripts
 
-## What I learned 
+## What I Learned 
 
 * Language parsing: converting textual input into meaningful instructions using lexical analysis
 * Language interpretation: understanding how interpreters work, including tokenization, expression evaluation, and control flow handling
